@@ -1,1 +1,1 @@
-ALX is suoer cool!
+ALX is super cool!
